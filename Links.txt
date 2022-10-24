@@ -1,5 +1,7 @@
-https://github.com/LuisLuna810/Patron-Serialized-LOB--DS22
+TP Patrones: https://github.com/LuisLuna810/Patron-Serialized-LOB--DS22
 
-https://github.com/LuisLuna810/pobretito
+TP E-Commerce: https://github.com/LuisLuna810/Proyecto-eComerce
 
-https://github.com/LuisLuna810/CirculoSangre-DS22
+TP Pobretito: https://github.com/LuisLuna810/pobretito
+
+TP Circulo de sangre: https://github.com/LuisLuna810/CirculoSangre-DS22
